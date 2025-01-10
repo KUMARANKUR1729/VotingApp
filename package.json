@@ -1,0 +1,17 @@
+{
+  "name": "votingapp",
+  "version": "1.0.0",
+  "description": "Voting App by Ankur Singh",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ankur Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.3",
+    "nodemon": "^3.1.9"
+  }
+}
